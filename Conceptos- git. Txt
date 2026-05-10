@@ -1,0 +1,29 @@
+Un repositorio es un lugar donde se guarda y organiza información o recursos. Dependiendo del contexto, puede significar cosas diferentes:
+
+💻 En informática (muy común)
+
+Un repositorio es un espacio donde se almacenan archivos de proyectos, especialmente código fuente. Permite:
+
+* Guardar versiones de un proyecto
+* Colaborar con otras personas
+* Controlar cambios (historial)
+
+Ejemplo: plataformas como GitHub￼ o GitLab￼ alojan repositorios de codigo.
+En Git￼, un commit es una acción que sirve para guardar los cambios realizados en un proyecto.
+Que es commit:
+Es como tomar una foto del proyecto en ese momento para que quede guardada en el historial.
+
+📌 ¿Para qué sirve?
+
+* Guardar avances del proyecto
+* Tener un historial de cambios
+* Poder volver a versiones anteriores si algo falla
+* Trabajar en equipo sin perder información
+
+Que es push:
+En Git￼, push es el comando que sirve para enviar los cambios de tu computadora a un repositorio remoto, por ejemplo en GitHub￼.
+
+📌 ¿Qué hace?
+
+Después de hacer un commit, los cambios quedan guardados solo en tu computador.
+Con push, esos cambios se suben a Internet para que otros puedan verlos o trabajar con ellos.
