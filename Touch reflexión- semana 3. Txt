@@ -1,0 +1,20 @@
+Es importante que los proyectos de software mantengan un registro de cambios con herramientas como Git￼ porque permite organizar y controlar todo lo que se hace en el proyecto.
+
+📌 Beneficios principales
+
+* Guardar el historial de cambios
+    Permite saber qué se modificó, cuándo y quién lo hizo.
+* Recuperar versiones anteriores
+    Si ocurre un error, se puede volver a una versión que funcionaba bien.
+* Trabajar en equipo
+    Varias personas pueden trabajar en el mismo proyecto sin perder cambios.
+* Evitar pérdida de información
+    Los avances quedan respaldados y organizados.
+* Facilita encontrar errores
+    Ayuda a identificar en qué cambio apareció un problema.
+* Mejora la organización del proyecto
+    Cada cambio queda documentado mediante commits.
+
+✅ En resumen
+
+Usar Git ayuda a que los proyectos sean más seguros, organizados y fáciles de manejar, especialmente cuando varias personas trabajan en el mismo software.
